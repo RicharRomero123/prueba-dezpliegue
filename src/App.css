@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+}
+
+.sidebar {
+  width: 250px; /* Ancho del sidebar */
+  background-color: #f0f0f0; /* Color de fondo del sidebar */
+  /* Otros estilos para el sidebar */
+}
+
+.content {
+  flex: 1; /* El contenido ocupará todo el espacio restante */
+  /* Otros estilos para el contenido */
+}
